@@ -1,0 +1,12 @@
+
+
+
+{
+
+    "aws": {
+        "qUrl": "SQS_QUEUE_URL",
+        "region": "REGION",
+        "accessKey": "accessKey",
+        "secretKey": "secretKey"
+	}
+}
