@@ -1,10 +1,15 @@
+# Provided 2 API's
 
+- To psuh data in SQS 
+- To check analytics of data
 
+> API details has been shared in seperate file named postman.js
 
-### Provided 2 APIs
+## How to Run App
 
-# 1-To psuh data in SQS 
-# 2- To check analytics of data
+```
+npm install
+npm start
+```
 
-- API details has been shared in seperate file named postman.js
-
+Author: Anil Singh
