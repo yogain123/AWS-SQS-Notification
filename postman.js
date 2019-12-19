@@ -1,8 +1,3 @@
-
-
-
-
-
 // curl -X POST \
 // http://localhost:3060/notification/log/create \
 // -H 'Accept: */*' \
@@ -49,10 +44,6 @@
 //     "message": "Request Processed successfully",
 //     "response": {}
 // }
-
-
-
-
 
 /* ------------------------------------------------------*/
 // 2: Analytics details api
