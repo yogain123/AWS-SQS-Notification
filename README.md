@@ -21,7 +21,7 @@ docker run -p 3060:3060 anil/aws-sqs
 
 ## Run Prettier on All files 
 
-- npm install prettier --save
+- npm install prettier -g
 - prettier --write *
 - prettier --write ./**/*
 - prettier --write ./services/**/*
