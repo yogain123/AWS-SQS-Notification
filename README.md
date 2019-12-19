@@ -1,6 +1,6 @@
 # Provided 2 API's
 
-- To psuh data in SQS 
+- To push data in SQS 
 - To check analytics of data
 
 > API details has been shared in seperate file named postman.js
