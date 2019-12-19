@@ -12,4 +12,11 @@ npm install
 npm start
 ```
 
+## Run App inside Docker Container
+
+```
+docker build -t anil/aws-sqs .
+docker run -p 3060:3060 anil/aws-sqs
+```
+
 Author: Anil Singh
