@@ -19,4 +19,11 @@ docker build -t anil/aws-sqs .
 docker run -p 3060:3060 anil/aws-sqs
 ```
 
+## Run Prettier on All files 
+
+- npm install prettier --save
+- prettier --write *
+- prettier --write ./**/*
+- prettier --write ./services/**/*
+
 Author: Anil Singh
